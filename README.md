@@ -2,7 +2,7 @@
 
 ## 🌟 Overview
 
-This is a simple **React-based Pricing Card UI** that displays different pricing plans. It is designed with **Tailwind CSS** for a clean and modern look.  
+This is a simple **React-based Pricing Card UI** that displays different pricing plans, designed with **CSS** for a clean and modern look.  
 
 
 ## 🚀 Features
